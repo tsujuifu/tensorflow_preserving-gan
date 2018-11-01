@@ -1,4 +1,2 @@
-# tensorflow_preserving-gan
+# [ACCV'18] Region-Semantics Preserving Image Synthesis
 A TensorFlow implementation of PreservingGAN
-
-## It will be updated soon~
