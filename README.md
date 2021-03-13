@@ -1,7 +1,7 @@
 # [ACCV'18] Region-Semantics Preserving Image Synthesis
 A <b>TensorFlow</b> implementation of PreservingGAN
 
-[Project](https://tsujuifu.github.io/projs/accv18_preserving-gan.html) | [Paper](https://tsujuifu.github.io/pubs/accv18_preserving-gan.pdf) | [Youtube](https://youtu.be/UwBjSUpjZU8)
+[Paper](https://tsujuifu.github.io/pubs/accv18_preserving-gan.pdf) | [Video](https://youtu.be/UwBjSUpjZU8)
 
 ![](./imgs/demo.gif)
 
