@@ -10,8 +10,11 @@ PreservingGAN is an implementation of <br>
 "[Region-Semantics Preserving Image Synthesis](https://tsujuifu.github.io/pubs/accv18_preserving-gan.pdf)" <br>
 Kang-Jun Liu, [Tsu-Jui Fu](https://tsujuifu.github.io/), [Shan-Hung Wu](http://www.cs.nthu.edu.tw/~shwu/) <br>
 in Asian Conference on Computer Vision (<b>ACCV</b>) 2018 <br>
+
 <img src='./imgs/model.png' width='75%' /> <br>
+
 Given a <b>reference image and R</b>, the Fast-RSPer synthesis an image by <b>finding (using the gradient descent) an input variable z</b> for the generator such that, at a deep layer where neurons <b>capture the semantics of the reference R</b>, the feature extractor <b>maps the synthesized region to features similar</b> to those of the reference region. Since both the generator and feature extractor are pre-trained, the Fast-RSPer has <b>no dedicated training phase</b> and can generate images efficiently. <br>
+
 <img src='./imgs/result.jpg' width='75%' />
 
 ## Requirements
