@@ -26,7 +26,7 @@ Following libraries are also required: <br>
 + [matplotlib](https://matplotlib.org/)
 
 ## Usage
-+ First download the [model](https://drive.google.com/drive/folders/1fc6SaSHAJuJIPRUkkNt-UjHe3OEf2ztS?usp=sharing) and put them under [Model](./Model)
++ First download the [model](https://drive.google.com/drive/folders/1IVx1mwN_e6iZlVNhj5FpKwYnI66PU-g8) and put them under [Model](./Model)
 + GUI
 ```
 python -m main_bedroom
@@ -40,7 +40,7 @@ PreservingGAN_Bedroom.ipynb
 ## Resources
 + [CelebA Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 + [Bedroom Dataset](http://lsun.cs.princeton.edu/2017/)
-+ [This project](https://drive.google.com/drive/folders/1fc6SaSHAJuJIPRUkkNt-UjHe3OEf2ztS?usp=sharing)
++ [This project](https://drive.google.com/drive/folders/1B38jFQ-VV52t8WoZh7QaRTVjZFvbTOYj)
 
 ## Citation
 ```
