@@ -51,8 +51,8 @@ PreservingGAN_Bedroom.ipynb
   year = {2018} 
 }
 ```
+
 ## Acknowledgement
 + Our <b>CelebA model</b> is based on [EBGAN](https://github.com/carpedm20/BEGAN-tensorflow)
 + Our <b>Bedroom model</b> is based on [WGAN-GP](https://github.com/khanrc/tf.gans-comparison)
 + Our PreservingGAN is also based on [NeuralStyle](https://github.com/anishathalye/neural-style)
-
