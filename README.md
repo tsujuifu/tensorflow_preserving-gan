@@ -8,7 +8,7 @@ A <b>TensorFlow</b> implementation of PreservingGAN
 ## Overview
 PreservingGAN is an implementation of <br>
 "[Region-Semantics Preserving Image Synthesis](https://tsujuifu.github.io/pubs/accv18_preserving-gan.pdf)" <br>
-Kang-Jun Liu, [Tsu-Jui Fu](https://tsujuifu.github.io/), [Shan-Hung Wu](http://www.cs.nthu.edu.tw/~shwu/) <br>
+[Kang-Jun Liu](https://dblp.org/pid/191/6724), [Tsu-Jui Fu](https://tsujuifu.github.io/), [Shan-Hung Wu](http://www.cs.nthu.edu.tw/~shwu/) <br>
 in Asian Conference on Computer Vision (<b>ACCV</b>) 2018 <br>
 
 <img src='./imgs/model.png' width='75%' /> <br>
