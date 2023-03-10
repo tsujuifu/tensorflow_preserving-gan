@@ -20,7 +20,7 @@ Given a <b>reference image and R</b>, the Fast-RSPer synthesis an image by <b>fi
 ## Requirements
 This code is implemented under <b>Python3</b> and [TensorFlow](https://www.tensorflow.org/). <br>
 Following libraries are also required: <br>
-+ [TensorFlow](https://www.tensorflow.org/) >= 1.6
++ [TensorFlow](https://www.tensorflow.org/)>=1.6
 + [PyQt5](https://pypi.org/project/PyQt5/)
 + [opencv-python](https://pypi.org/project/opencv-python/)
 + [matplotlib](https://matplotlib.org/)
