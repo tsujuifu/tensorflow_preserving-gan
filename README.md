@@ -46,7 +46,7 @@ PreservingGAN_Bedroom.ipynb
 ```
 @inproceedings{liu2018preserving-gan,
   author = {Kang-Jun Liu and Tsu-Jui Fu and Shan-Hung Wu}, 
-  title = {Region-Semantics Preserving Image Synthesis}, 
+  title = {{Region-Semantics Preserving Image Synthesis}}, 
   booktitle = {Asian Conference on Computer Vision (ACCV)}, 
   year = {2018} 
 }
